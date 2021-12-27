@@ -5,23 +5,5 @@
 .DS_Store
 assets
 .ipynb_checkpoints
-Acronimos Organismos.csv
-apellidos_maternos.xlsx
-apellidos_paternos.xlsx
-PersonalCodigotrabajo.csv
-PersonalContrata.csv
-PersonalContratohonorarios.csv
-PersonalPlanta.csv
-Abril2020Codigotrabajo.csv
-Abril2020Contrata.csv
-Abril2020Planta.csv
-Abril2020Honorarios.csv
-Febrero2020Codigotrabajo.csv
-Febrero2020Contrata.csv
-Febrero2020Honorarios.csv
-Febrero2020Planta.csv
-Febrero2020.csv
-Abril2020.csv
-3-1000.csv
-3-100000.csv
-4-10.csv
+*.xlsx
+*.csv
